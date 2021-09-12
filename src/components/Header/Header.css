@@ -1,0 +1,16 @@
+.main-header {
+  background-color: #0011ff;
+  color: #ffffff;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-text {
+  font-size: larger;
+  font-weight: 800;
+}
+
+h4 {
+  margin: 0;
+}
